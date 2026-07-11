@@ -381,6 +381,13 @@ footer{
     color: #888888;
     gap: 15px;
 }
+
+.social-media-link a{
+    display: flex;
+    align-items: center;
+}
+
+
 .last{
     padding: 20px;
     color: goldenrod;
